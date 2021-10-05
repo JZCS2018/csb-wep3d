@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://.github.io/csb-wep3d/static/js/main.a7a010cc.chunk.js",
+    "main.js.map": "https://.github.io/csb-wep3d/static/js/main.a7a010cc.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-wep3d/static/js/runtime-main.ccdea717.js",
+    "runtime-main.js.map": "https://.github.io/csb-wep3d/static/js/runtime-main.ccdea717.js.map",
+    "static/js/2.8b7e9bef.chunk.js": "https://.github.io/csb-wep3d/static/js/2.8b7e9bef.chunk.js",
+    "static/js/2.8b7e9bef.chunk.js.map": "https://.github.io/csb-wep3d/static/js/2.8b7e9bef.chunk.js.map",
+    "index.html": "https://.github.io/csb-wep3d/index.html",
+    "static/js/2.8b7e9bef.chunk.js.LICENSE.txt": "https://.github.io/csb-wep3d/static/js/2.8b7e9bef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccdea717.js",
+    "static/js/2.8b7e9bef.chunk.js",
+    "static/js/main.a7a010cc.chunk.js"
+  ]
+}
